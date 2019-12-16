@@ -6,7 +6,7 @@ return array (
   'ZC_SQLITE_PRE' => 'zbp_',
   'ZC_MYSQL_SERVER' => 'localhost',
   'ZC_MYSQL_USERNAME' => 'zblog',
-  'ZC_MYSQL_PASSWORD' => 'zblog',
+  'ZC_MYSQL_PASSWORD' => 'zblog@@484927zblog',
   'ZC_MYSQL_NAME' => 'zblog',
   'ZC_MYSQL_CHARSET' => 'utf8',
   'ZC_MYSQL_PRE' => 'zbp_',
